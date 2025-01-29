@@ -1,8 +1,8 @@
 ##
 <div>
-  <a href="https://github.com/joaodallagnol">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaodallagnol&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodallagnol&hide=Tcl,HTML,Roff,Dtrace,shell,Xslt,CSS,PLSQL&layout=compact&langs_count=8&theme=chartreuse-dark"/></div>
+  <a href="https://github.com/JoaoDallagnol">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoDallagnol&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodallagnol&hide=Tcl,HTML,Roff,Dtrace,shell,Xslt,CSS,PLSQL,JavaScript&layout=compact&langs_count=8&theme=chartreuse-dark"/></div>
   
   ## Entre em contato comigo!!
   <div>
